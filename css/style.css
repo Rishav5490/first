@@ -1,0 +1,22 @@
+.navbar-nav{
+    color: white !important;
+}
+
+
+.first-page{
+border: 1px solid #000;
+margin: 10px;
+height: 600px;
+width: 400px;
+border-radius: 10px;
+}
+.first-page img {
+    height: 400px;
+    width: 410px;
+    border-radius: 40px;
+    margin: 6px;
+}
+ul.navbar-nav {
+    gap: 280px;
+    margin-left: 143px;
+}
